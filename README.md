@@ -1,6 +1,4 @@
-# RecGraph: Athletic Recovery Prediction using Graph Neural Networks
-
-Graph neural network framework for predicting athletic recovery using multi-modal physiological and subjective data.
+# GraphRec: A Graph Neural Network Framework for Athletic Recovery Optimization
 
 ## Setup
 
